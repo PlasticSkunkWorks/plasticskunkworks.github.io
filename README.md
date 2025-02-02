@@ -8,7 +8,7 @@ Plastic Skunkworks is at the forefront of the open-source electronics revolution
 
 - **Ready-to-Use Kits:** To get you started quickly, we offer comprehensive kits that include all the hardware and software you need to begin your project. These kits are the perfect launchpad for both beginners and seasoned enthusiasts.
 
-## Key Focus:
+## Key Points
 
 - **Your Product, Your Control:** we ensure that 100% of the code and 100% of the hardware are modifiable by you. This philosophy guarantees that you have complete control over your technology, from the core functionality to the smallest component. You decide how your data is handled, ensuring privacy and security are in your hands.
 
