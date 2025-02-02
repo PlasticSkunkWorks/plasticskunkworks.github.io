@@ -18,7 +18,10 @@ The system is based on Arduino and runs over standard ESP32 boards. Here you can
 Download the [Basic Project](https://github.com/PlasticSkunkWorks/TraderWatch/archive/refs/heads/main.zip). from github, unzip the folder and open the .ino file with Arduino IDE. The system can be set using the settings.h file as shown in the picture:
 
 
-![settings.h](doc_img/SetTraderWatch.png)
+![sfixed imgettings.h](doc_img/SetTraderWatch.png)
 
 Here there are the list of settings you have to enter:
--
+- SSID and PASSWORD of your WIFI network
+- The list of the tickers taken from Yahoo Finance
+- Your timezone
+- Do you need OTA updates? Set the variable yes or true. 
