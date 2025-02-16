@@ -25,3 +25,7 @@ Here there are the list of settings you have to enter:
 - The list of the tickers taken from Yahoo Finance
 - Your timezone
 - Do you need OTA updates? Set the variable yes or true. 
+
+## Deploy 
+
+User the arduino IDE to deploy your project.
